@@ -1,7 +1,4 @@
----
-layout: page
-title: Wiki
----
+
 <div class="wiki">
     <h2>Javascript</h2>
     <ul class="hide">
