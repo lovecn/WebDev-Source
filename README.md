@@ -392,13 +392,17 @@
             <li><a href="http://www.qianduan.net/80-more-absolutely-beautiful-dual-screen-wallpaper.html">80多个绝对漂亮的双屏壁纸</a></li>
         </ul>
     </ul>
-
+<h2>Web开发安全相关</h2>
+<ul class="hide">
+<li></li>
+</ul>
     <h2>VIM</h2>
     <ul class="hide">
         <li><a href="http://blog.longwin.com.tw/2009/03/choose-vim-color-scheme-2009/">配置挑选Vim颜色(Color Scheme)</a></li>
         <li><a href="http://scmbob.org/vim_fdm.html">VIM折叠简介</a></li>
         <li><a href="http://freewind.me/blog/20110912/102.html">FuzzyFinder快速查找文件</a></li>
     </ul>
+    
 </div>
 <script type="text/javascript">
     $(document).ready(function(){
