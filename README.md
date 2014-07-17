@@ -186,7 +186,7 @@
         <li><a href="http://www.webstandards.org/">The Web Standards Project</a></li>
         <li><a href="http://www.w3schools.com/">W3Schools Online Web Tutorials</a></li>
         <li><a href="http://www.google.com/support/webmasters/bin/answer.py?hl=cn&amp;answer=40132">HTTP 状态代码</a></li>
-        <li><a href="http://www.floatfly.cn/default/web-error-info.html">网页错误代码详解</a></li>
+        
         <li><a href="http://www.w3school.com.cn">w3school - 在线教程</a></li>
         <li><a href="http://zh.wikipedia.org/zh-cn/REST">REST介绍</a></li>
         <li><a href="http://aliceui.com/category/solutions/" title="Alice出品的浏览器兼容解决方案">浏览器兼容解决方案</a>(AliceUI) | <a href="http://aliceui.com/w3c-docs/" title="AliceUI出品对HTML5/CSS3的标准文档研究">W3C 标准文档</a>(AliceUI)</li>
